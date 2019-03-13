@@ -1,0 +1,45 @@
+.header{
+	background-color: #DB7093;
+	text-align: center;
+	padding: 3px;
+	border-width:5px;
+
+}
+.header h1{
+	color: black;
+	font-size: 50px;
+
+
+}
+.item{
+	background-color: #DB7093;
+	padding: 40px;
+	margin-top: 20px;
+	text-align: center;
+	float: center;
+
+}
+.segunda{
+	float: right;
+	background-color: #DB7093;
+	padding: 40px;
+	width: 30%;
+	text-align: center;
+	
+	
+
+}
+
+body{
+	background-color: #e5e5e5;
+}
+.derecha{
+	float: left;
+	width: 20%;
+	background-color:  ;
+	padding: 40px;
+}
+.footer{
+	float: center;
+	font-size: 20px;
+}
